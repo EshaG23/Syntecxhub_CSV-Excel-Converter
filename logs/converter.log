@@ -1,0 +1,3 @@
+2026-06-14 20:48:34,033 - INFO - Reading file: input/sample.csv
+2026-06-14 20:48:34,044 - INFO - Cleaning data
+2026-06-14 20:48:34,402 - INFO - Excel file saved: output/result.xlsx
